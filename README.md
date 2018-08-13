@@ -25,7 +25,7 @@ catch (\Exception $e) {
 echo $result['id'];
 ```
 
-#Installation
+## Installation
 You can install the package via composer:
 
 ```
